@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Sergey<br>I am frontend developer with more than 3 year experience<br>Code is my lifestyle
+Hi, my name is Sergey<br>I am frontend developer with more than 3 years experience<br>Code is my lifestyle
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,3 @@ Hi, my name is Sergey<br>I am frontend developer with more than 3 year experienc
 ---
 [![](https://visitcount.itsvg.in/api?id=serIBuy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
